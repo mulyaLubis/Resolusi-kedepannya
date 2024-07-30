@@ -1,0 +1,3 @@
+ada beberapa tahan :
+1. belajar tipe data
+2. belajar variabel
