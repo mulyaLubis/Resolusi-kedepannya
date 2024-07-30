@@ -1,3 +1,5 @@
 ada beberapa tahan :
 1. belajar tipe data
 2. belajar variabel
+3. belajar operator
+4. belajar function
