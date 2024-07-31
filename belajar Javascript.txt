@@ -3,3 +3,7 @@ ada beberapa tahan :
 2. belajar variabel
 3. belajar operator
 4. belajar function
+
+setelah itu belajar framework js :
+1. react
+2. angular
