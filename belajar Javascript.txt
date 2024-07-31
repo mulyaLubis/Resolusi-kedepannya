@@ -4,6 +4,9 @@ ada beberapa tahan :
 3. belajar operator
 4. belajar function
 
-setelah itu belajar framework js :
-1. react
-2. angular
+setelah itu belajar framework js:
+1. vue
+2. node
+3. react
+4. angular
+
