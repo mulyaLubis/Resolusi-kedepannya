@@ -1,5 +1,10 @@
 ada beberapa tahan :
 1. belajar tipe data
 2. belajar variabel
-3. belajar operator
-4. belajar function
+3. belajar function
+
+
+setelah itu belajar framework js:
+1. vue
+2. node
+3. react
